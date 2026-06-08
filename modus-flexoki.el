@@ -75,6 +75,7 @@
     (property         blue)
     (rx-backslash     magenta)
     (rx-construct     cyan)
+    (number           blue-warmer)    ; purple slot
 
     ;; ── Links ─────────────────────────────────────────────────────────
     (fg-link          blue)
