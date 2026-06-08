@@ -76,6 +76,8 @@
     (rx-backslash     magenta)
     (rx-construct     cyan)
     (number           blue-warmer)    ; purple slot
+    (punctuation      fg-dim)
+    (operator         fg-dim)
 
     ;; ── Links ─────────────────────────────────────────────────────────
     (fg-link          blue)
